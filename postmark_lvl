@@ -1,0 +1,10 @@
+NAME LOW HIGH
+minimum_file_size 512	4096
+maximum_file_size 4096 16777216
+number_of_initial_files 1000 10000
+read_size 512 32768
+write_size 512 32768
+buffering false true
+read_append_ratio 1 9
+create_delete_ratio 5 9
+number_of_subdirectories 1 1000
